@@ -1,0 +1,2 @@
+# openVPN-iOS-test
+参考openvpn-ios-client项目，使用NetworkExtension和OpenVPNAdapter实现的OpenVPN iOS客户端，原作者的Demo有问题，OpenVPNAdapter代码使用的过老
